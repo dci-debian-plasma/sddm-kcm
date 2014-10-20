@@ -1,0 +1,21 @@
+sddm-kcm (0.2.0~git20141020-0ubuntu1) utopic; urgency=medium
+
+  * New upstream snapshot
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Mon, 20 Oct 2014 17:10:45 +0200
+
+sddm-kcm (0.1.0-0ubuntu1) utopic; urgency=medium
+
+  * New upstream release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Mon, 29 Sep 2014 15:48:41 +0200
+
+sddm-kcm (0~git20140829-0ubuntu1) utopic; urgency=low
+
+  [ Harald Sitter ]
+  * Initial release.
+
+  [ Scarlett Clark ]
+  * New git snapshot
+
+ -- Harald Sitter <apachelogger@kubuntu.org>  Tue, 29 Jul 2014 13:58:49 +0200
