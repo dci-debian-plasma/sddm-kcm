@@ -1,4 +1,4 @@
-sddm-kcm (5.1.95-0ubuntu1) UNRELEASED; urgency=medium
+sddm-kcm (4:5.1.95-0ubuntu1) UNRELEASED; urgency=medium
 
   [ Paulo Dias ]
   * First Build for kf5.
