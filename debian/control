@@ -8,8 +8,8 @@ Build-Depends: cmake,
                extra-cmake-modules,
                kio-dev,
                libkf5auth-dev,
-               libkf5coreaddons-dev,
                libkf5configwidgets-dev,
+               libkf5coreaddons-dev,
                libkf5i18n-dev,
                libkf5xmlgui-dev,
                libqt5x11extras5-dev,
@@ -18,7 +18,8 @@ Build-Depends: cmake,
                libxcb-shm0-dev,
                libxcursor-dev,
                pkg-kde-tools,
-               qtdeclarative5-dev
+               qtdeclarative5-dev,
+               qttools5-dev
 Standards-Version: 3.9.5
 Homepage: https://projects.kde.org/projects/kde/workspace/sddm-kcm/repository
 
