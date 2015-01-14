@@ -6,7 +6,10 @@ sddm-kcm (4:5.1.95-0ubuntu1) UNRELEASED; urgency=medium
   [ Harald Sitter ]
   * Align all debian/ files with what we had in Kubuntu utopic
 
- -- Paulo Dias <paulo.miguel.dias@gmail.com>  Thu, 08 Jan 2015 15:33:05 -0200
+  [ Jonathan Riddell ]
+  * New upstream beta release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 14 Jan 2015 13:25:50 +0100
 
 sddm-kcm (0.2.0~git20141020-0ubuntu1) utopic; urgency=medium
 
