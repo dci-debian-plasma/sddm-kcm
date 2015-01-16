@@ -1,13 +1,10 @@
-sddm-kcm (4:5.1.95-0ubuntu1) UNRELEASED; urgency=medium
+sddm-kcm (4:5.1.95-0ubuntu1) vivid; urgency=medium
 
   [ Paulo Dias ]
   * First Build for kf5.
 
   [ Harald Sitter ]
   * Align all debian/ files with what we had in Kubuntu utopic
-
-  [ Jonathan Riddell ]
-  * New upstream beta release
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 14 Jan 2015 13:25:50 +0100
 
