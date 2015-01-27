@@ -1,8 +1,8 @@
-sddm-kcm (4:5.2.0-0ubuntu1) UNRELEASED; urgency=medium
+sddm-kcm (4:5.2.0-0ubuntu1) vivid; urgency=medium
 
   * New upstream release
 
- -- Harald Sitter <sitter@kde.org>  Mon, 26 Jan 2015 13:48:07 +0100
+ -- Harald Sitter <sitter@kde.org>  Tue, 27 Jan 2015 15:01:52 +0100
 
 sddm-kcm (4:5.1.95-0ubuntu1) vivid; urgency=medium
 
