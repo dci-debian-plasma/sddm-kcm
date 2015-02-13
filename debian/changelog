@@ -3,6 +3,7 @@ sddm-kcm (4:5.2.0-1~) UNRELEASED; urgency=medium
   * Prepare initial Debian release.
   * Update build dependencies to build against experimental and to
     follow cmake.
+  * Update copyright information.
 
  -- Maximiliano Curia <maxy@debian.org>  Fri, 13 Feb 2015 14:24:06 +0100
 
