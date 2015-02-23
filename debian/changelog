@@ -1,6 +1,7 @@
 sddm-kcm (4:5.2.1-0ubuntu1) UNRELEASED; urgency=medium
 
   * New upstream release 
+  * Add new depends to control. 
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Thu, 19 Feb 2015 14:33:54 -0800
 
