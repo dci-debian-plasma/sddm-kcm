@@ -1,8 +1,8 @@
-sddm-kcm (4:5.2.2-0ubuntu1) UNRELEASED; urgency=medium
+sddm-kcm (4:5.2.2-0ubuntu1) vivid; urgency=medium
 
   * New upstream release
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Thu, 19 Mar 2015 15:16:41 -0700
+ -- Scarlett Clark <sgclark@kubuntu.org>  Tue, 24 Mar 2015 07:45:44 -0700
 
 sddm-kcm (4:5.2.1-0ubuntu1) vivid; urgency=medium
 
