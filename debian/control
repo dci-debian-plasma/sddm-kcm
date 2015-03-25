@@ -38,7 +38,8 @@ Package: kde-config-sddm-dbg
 Section: debug
 Priority: extra
 Architecture: any
-Depends: kde-config-sddm (= ${binary:Version}), ${misc:Depends}
+Depends: kde-config-sddm (= ${binary:Version}),
+         ${misc:Depends}
  KDE systemsettings module to configure SDDM login manager.
  .
  This package contains debugging symbols.
