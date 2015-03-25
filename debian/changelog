@@ -5,6 +5,19 @@ sddm-kcm (4:5.2.2-1~) UNRELEASED; urgency=medium
 
  -- Maximiliano Curia <maxy@debian.org>  Wed, 25 Mar 2015 09:58:34 +0100
 
+sddm-kcm (4:5.2.2-0ubuntu1) vivid; urgency=medium
+
+  * New upstream release
+
+ -- Scarlett Clark <sgclark@kubuntu.org>  Tue, 24 Mar 2015 07:45:44 -0700
+
+sddm-kcm (4:5.2.1-0ubuntu1) vivid; urgency=medium
+
+  * New upstream release 
+  * Add new depends to control. 
+
+ -- Scarlett Clark <sgclark@kubuntu.org>  Mon, 23 Feb 2015 09:50:32 -0800
+
 sddm-kcm (4:5.2.0-1) experimental; urgency=medium
 
   * Prepare initial Debian release.

@@ -39,7 +39,6 @@ Section: debug
 Priority: extra
 Architecture: any
 Depends: kde-config-sddm (= ${binary:Version}), ${misc:Depends}
-Description: KCM module for SDDM -- debugging symbols
  KDE systemsettings module to configure SDDM login manager.
  .
  This package contains debugging symbols.
