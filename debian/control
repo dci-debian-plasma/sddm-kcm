@@ -24,6 +24,8 @@ Build-Depends: cmake,
                qttools5-dev
 Standards-Version: 3.9.5
 Homepage: https://projects.kde.org/projects/kde/workspace/sddm-kcm/repository
+Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/plasma/sddm-kcm.git
+Vcs-Git: git://anonscm.debian.org/pkg-kde/plasma/sddm-kcm.git
 
 Package: kde-config-sddm
 Architecture: any
