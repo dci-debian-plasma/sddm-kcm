@@ -1,8 +1,9 @@
-sddm-kcm (4:5.3.0-1~) UNRELEASED; urgency=medium
+sddm-kcm (4:5.3.1-1~) UNRELEASED; urgency=medium
 
   * New upstream release (5.3.0).
+  * New upstream release (5.3.1).
 
- -- Maximiliano Curia <maxy@debian.org>  Tue, 12 May 2015 20:08:38 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 05 Jun 2015 11:56:57 +0200
 
 sddm-kcm (4:5.2.2-1) experimental; urgency=medium
 
