@@ -1,8 +1,8 @@
-sddm-kcm (4:5.3.2-0ubuntu1) UNRELEASED; urgency=medium
+sddm-kcm (4:5.3.95-0ubuntu1) UNRELEASED; urgency=medium
 
-  * Vivid backport
+  * new upstream beta release
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Thu, 02 Jul 2015 12:00:05 -0700
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Fri, 07 Aug 2015 18:56:12 +0200
 
 sddm-kcm (4:5.3.2-0ubuntu1) wily; urgency=medium
 
