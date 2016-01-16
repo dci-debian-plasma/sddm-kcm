@@ -9,6 +9,12 @@ sddm-kcm (4:5.5.3-0ubuntu1) UNRELEASED; urgency=medium
 
  -- Clive Johnston <clivejo@aol.com>  Thu, 07 Jan 2016 18:07:43 +0000
 
+sddm-kcm (4:5.4.3-1) unstable; urgency=medium
+
+  * New upstream release (5.4.3).
+
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 01 Dec 2015 11:46:02 +0100
+
 sddm-kcm (4:5.4.3-0ubuntu1) xenial; urgency=medium
 
   [ Scarlett Clark ]
@@ -20,17 +26,35 @@ sddm-kcm (4:5.4.3-0ubuntu1) xenial; urgency=medium
 
  -- Philip Muškovac <yofel@kubuntu.org>  Sun, 22 Nov 2015 16:50:34 +0100
 
+sddm-kcm (4:5.4.2-1) unstable; urgency=medium
+
+  * New upstream release (5.4.2).
+
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 06 Oct 2015 07:52:19 +0200
+
 sddm-kcm (4:5.4.2-0ubuntu1) wily; urgency=medium
 
   * New upstream release
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 02 Oct 2015 16:03:49 +0100
 
+sddm-kcm (4:5.4.1-1) unstable; urgency=medium
+
+  * New upstream release (5.4.1).
+
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 11 Sep 2015 18:45:36 +0200
+
 sddm-kcm (4:5.4.1-0ubuntu1) wily; urgency=medium
 
   * new upstream release
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 08 Sep 2015 10:27:20 +0100
+
+sddm-kcm (4:5.4.0-1) unstable; urgency=medium
+
+  * New upstream release (5.4.0).
+
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 03 Sep 2015 19:07:56 +0200
 
 sddm-kcm (4:5.4.0-0ubuntu1) wily; urgency=medium
 
@@ -43,6 +67,14 @@ sddm-kcm (4:5.3.95-0ubuntu1) wily; urgency=medium
   * new upstream beta release
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Mon, 10 Aug 2015 23:23:15 +0200
+
+sddm-kcm (4:5.3.2-1) unstable; urgency=medium
+
+  * New upstream release (5.3.0).
+  * New upstream release (5.3.1).
+  * New upstream release (5.3.2).
+
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 09 Jul 2015 15:33:19 +0200
 
 sddm-kcm (4:5.3.2-0ubuntu1) wily; urgency=medium
 
@@ -63,13 +95,6 @@ sddm-kcm (4:5.3.1-0ubuntu1) wily; urgency=medium
   * New upstream release
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Fri, 05 Jun 2015 02:54:07 +0200
-
-sddm-kcm (4:5.3.1-1~) UNRELEASED; urgency=medium
-
-  * New upstream release (5.3.0).
-  * New upstream release (5.3.1).
-
- -- Maximiliano Curia <maxy@debian.org>  Fri, 05 Jun 2015 11:56:57 +0200
 
 sddm-kcm (4:5.2.2-1) experimental; urgency=medium
 
