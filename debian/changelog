@@ -1,8 +1,8 @@
-sddm-kcm (4:5.5.5-0ubuntu1) UNRELEASED; urgency=medium
+sddm-kcm (4:5.5.5-0ubuntu1) xenial; urgency=medium
 
   * New upstream release
 
- -- Clive Johnston <clivejo@aol.com>  Tue, 08 Mar 2016 23:10:01 +0000
+ -- Clive Johnston <clivejo@aol.com>  Thu, 14 Apr 2016 14:03:42 -0700
 
 sddm-kcm (4:5.5.4-0ubuntu1) xenial; urgency=medium
 
