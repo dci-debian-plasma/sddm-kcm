@@ -1,3 +1,11 @@
+sddm-kcm (4:5.6.2-1~1.gbp12d5c5) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @12d5c58f75f40a12bab7cbb8f7108df9e306e17c **
+
+  * UNRELEASED
+
+ -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Wed, 06 Apr 2016 23:21:14 +0200
+
 sddm-kcm (4:5.5.5-1~) UNRELEASED; urgency=medium
 
   * New upstream release (5.5.5).
