@@ -5,6 +5,7 @@ sddm-kcm (4:5.7.2-0r1) UNRELEASED; urgency=medium
   * Stop forcing the local installation to debian/tmp, letting the package
     directory as install place.
     - remove kde-config-sddm.install, no more used now
+  * Remove unused debian/meta/upstream_scm.json stuff.
 
  -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sun, 24 Jul 2016 13:41:40 +0200
 
