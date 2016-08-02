@@ -1,6 +1,6 @@
-sddm-kcm (4:5.7.2-1~1.gbp46df99) UNRELEASED; urgency=medium
+sddm-kcm (4:5.7.2-1~2.gbp85773f) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @46df99404dce14c5b374f1b97e385eb9cd6dc1f4 **
+  ** SNAPSHOT build @85773f6a31ccef92b8651886a30ce8144baac5ae **
 
   [ Pino Toscano ]
   * New upstream release.
@@ -8,8 +8,11 @@ sddm-kcm (4:5.7.2-1~1.gbp46df99) UNRELEASED; urgency=medium
     directory as install place.
     - remove kde-config-sddm.install, no more used now
   * Remove unused debian/meta/upstream_scm.json stuff.
+  * start preparing 5.7.2
+  * stop forcing local installation to debian/tmp
+  * remove unused debian/meta/upstream_scm.json stuff
 
- -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sun, 24 Jul 2016 13:41:40 +0200
+ -- Pino Toscano <pino@debian.org>  Tue, 02 Aug 2016 13:33:44 +0200
 
 sddm-kcm (4:5.7.0-1) unstable; urgency=medium
 
