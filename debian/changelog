@@ -1,6 +1,6 @@
-sddm-kcm (4:5.7.2-1~2.gbp85773f) UNRELEASED; urgency=medium
+sddm-kcm (4:5.7.3-1~1.gbpf8d268) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @85773f6a31ccef92b8651886a30ce8144baac5ae **
+  ** SNAPSHOT build @f8d268a74a916e3ee165c78eb7865605457498b3 **
 
   [ Pino Toscano ]
   * New upstream release.
@@ -11,8 +11,9 @@ sddm-kcm (4:5.7.2-1~2.gbp85773f) UNRELEASED; urgency=medium
   * start preparing 5.7.2
   * stop forcing local installation to debian/tmp
   * remove unused debian/meta/upstream_scm.json stuff
+  * UNRELEASED
 
- -- Pino Toscano <pino@debian.org>  Tue, 02 Aug 2016 13:33:44 +0200
+ -- Pino Toscano <jenkins@gnuservers.com.ar>  Fri, 05 Aug 2016 13:05:43 +0200
 
 sddm-kcm (4:5.7.0-1) unstable; urgency=medium
 
