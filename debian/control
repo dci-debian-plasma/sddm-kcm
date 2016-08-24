@@ -32,7 +32,10 @@ Vcs-Git: git://anonscm.debian.org/pkg-kde/plasma/sddm-kcm.git
 
 Package: kde-config-sddm
 Architecture: any
-Depends: ${misc:Depends}, ${shlibs:Depends}
+Depends: qml-module-qtquick-layouts,
+         qml-module-qtquick2,
+         ${misc:Depends},
+         ${shlibs:Depends}
 Description: KCM module for SDDM
  KDE systemsettings module to configure SDDM login manager.
 
