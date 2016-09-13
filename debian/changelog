@@ -1,3 +1,11 @@
+sddm-kcm (4:5.7.5-1~1.gbp760de1) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @760de1caf94579991cb24060b22f528b5ab9bb37 **
+
+  * UNRELEASED
+
+ -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Tue, 13 Sep 2016 20:21:34 +0200
+
 sddm-kcm (4:5.7.4-1) unstable; urgency=medium
 
   [ Pino Toscano ]
