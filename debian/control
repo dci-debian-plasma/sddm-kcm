@@ -6,13 +6,13 @@ Uploaders: Harald Sitter <apachelogger@kubuntu.org>,
            Maximiliano Curia <maxy@debian.org>
 Build-Depends: cmake (>= 2.8.12),
                debhelper (>= 9),
-               extra-cmake-modules (>= 1.0.0),
-               kio-dev,
-               libkf5auth-dev,
-               libkf5configwidgets-dev,
-               libkf5coreaddons-dev,
-               libkf5i18n-dev,
-               libkf5xmlgui-dev,
+               extra-cmake-modules (>= 5.18.0~),
+               kio-dev (>= 5.18.0~),
+               libkf5auth-dev (>= 5.18.0~),
+               libkf5configwidgets-dev (>= 5.18.0~),
+               libkf5coreaddons-dev (>= 5.18.0~),
+               libkf5i18n-dev (>= 5.18.0~),
+               libkf5xmlgui-dev (>= 5.18.0~),
                libqt5x11extras5-dev (>= 5.4.0~),
                libx11-dev,
                libxcb-image0-dev,
@@ -32,6 +32,9 @@ Vcs-Git: https://anonscm.debian.org/git/pkg-kde/plasma/sddm-kcm.git
 
 Package: kde-config-sddm
 Architecture: any
-Depends: ${misc:Depends}, ${shlibs:Depends}
+Depends: qml-module-qtquick-layouts,
+         qml-module-qtquick2,
+         ${misc:Depends},
+         ${shlibs:Depends}
 Description: KCM module for SDDM
  KDE systemsettings module to configure SDDM login manager.
