@@ -1,11 +1,72 @@
-sddm-kcm (4:5.8.0-1~1.gbpb78e38) UNRELEASED; urgency=medium
+sddm-kcm (4:5.8.0-1~2.gbp0fbf86) UNRELEASED; urgency=medium
 
+  ** SNAPSHOT build @0fbf86df741fca50a3ead2e4752003cfb9f3ff5c **
+
+  [ Maximiliano Curia ]
   ** SNAPSHOT build @b78e387fe1ea7da13f23ae4cfa412a3b310b675b **
 
   * UNRELEASED
   * UNRELEASED
 
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Tue, 04 Oct 2016 13:40:11 +0200
+  [ Harald Sitter ]
+  * removing stable upstream_scm meta data
+  * drop upstream_scm metadata, now in ci-tooling
+  * vcs fields
+
+  [ Jonathan Riddell ]
+  * Plasma 5.3 beta
+  * new upstream release
+  * New upstream release
+  * NOCI  Release to wily.
+  * New upstream release
+  * build-dep on pkg-config
+  * build-dep on libxcb-xkb-dev
+  * Release to wily.
+  * 5.3.95
+  * Release to wily.
+  * new upstream release
+  * Release to wily.
+  * new upstream release
+  * Release to wily.
+  * NOCI Release to wily.
+  * update watch file to version=4 with pgp signature checking
+  * only stable tars used in neon
+  * update signing key to add david edmundson
+  * qml depends
+  * NOCI
+
+  [ Scarlett Clark ]
+  * Vivid backport
+  * Vivid backport
+  * New upstream release
+  * Vivid backport
+  * New upstream bugfix release
+  * New upstream release Xenial
+
+  [ Philip Muškovac ]
+  * New upstream bugfix release (LP: #1518598)
+  * NOCI Release to xenial.
+  * Add changelog entry for the merge
+
+  [ Clive Johnston ]
+  * new upstream release
+  * New upstream release
+  * New upstream release
+
+  [ Neon CI ]
+  * New release
+  * New release
+  * New release
+  * New release
+  * New release
+  * New release
+  * New release
+  * New release
+  * New release
+  * New release
+  * New release
+
+ -- Harald Sitter <sitter@kde.org>  Wed, 05 Oct 2016 19:21:28 +0200
 
 sddm-kcm (4:5.8.0-0neon) xenial; urgency=medium
 
