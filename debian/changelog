@@ -1,3 +1,11 @@
+sddm-kcm (4:5.8.1-1~1.gbp09d849) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @09d849e334a791c9665a968af6ad8635724ca4f7 **
+
+  * UNRELEASED
+
+ -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Thu, 13 Oct 2016 20:21:24 +0200
+
 sddm-kcm (4:5.8.0-1) unstable; urgency=medium
 
   * New upstream release (5.8.0)
