@@ -1,10 +1,8 @@
-sddm-kcm (4:5.8.2-1~1.gbp614f84) UNRELEASED; urgency=medium
+sddm-kcm (4:5.8.2-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @614f848a58190fe05fc08315db6047b10ff385c0 **
+  * New upstream release (5.8.2)
 
-  * UNRELEASED
-
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Tue, 18 Oct 2016 20:21:24 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 19 Oct 2016 15:24:57 +0200
 
 sddm-kcm (4:5.8.1-1) unstable; urgency=medium
 
