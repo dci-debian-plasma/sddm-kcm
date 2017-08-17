@@ -3,7 +3,7 @@ Section: kde
 Priority: optional
 Maintainer: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 Uploaders: Harald Sitter <apachelogger@kubuntu.org>,
-           Maximiliano Curia <maxy@debian.org>
+           Maximiliano Curia <maxy@debian.org>,
 Build-Depends: cmake (>= 2.8.12),
                debhelper (>= 9),
                extra-cmake-modules (>= 5.18.0~),
@@ -26,7 +26,7 @@ Build-Depends: cmake (>= 2.8.12),
                pkg-kde-tools (>= 0.15.16),
                qtbase5-dev (>= 5.4.0~),
                qtdeclarative5-dev (>= 5.4.0~),
-               qttools5-dev (>= 5.4.0~)
+               qttools5-dev (>= 5.4.0~),
 Standards-Version: 4.0.0
 Homepage: https://projects.kde.org/projects/kde/workspace/sddm-kcm
 Vcs-Browser: https://anonscm.debian.org/git/pkg-kde/plasma/sddm-kcm.git
@@ -37,6 +37,6 @@ Architecture: any
 Depends: qml-module-qtquick-layouts,
          qml-module-qtquick2,
          ${misc:Depends},
-         ${shlibs:Depends}
+         ${shlibs:Depends},
 Description: KCM module for SDDM
  KDE systemsettings module to configure SDDM login manager.
