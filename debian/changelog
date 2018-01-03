@@ -1,8 +1,10 @@
-sddm-kcm (4:5.11.4-1~) UNRELEASED; urgency=medium
+sddm-kcm (4:5.11.4-1) experimental; urgency=medium
 
   * New upstream release (5.11.4).
+  * Bump Standards-Version to 4.1.2.
+  * Release to experimental
 
- -- Maximiliano Curia <maxy@debian.org>  Wed, 27 Dec 2017 15:52:35 -0300
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 03 Jan 2018 16:49:25 -0300
 
 sddm-kcm (4:5.10.5-2) sid; urgency=medium
 
